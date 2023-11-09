@@ -3,3 +3,10 @@ title: Construction of Little America
 layout: about
 permalink: /little-america.html
 ---
+<body>
+    <h1>Welcome to My Webpage!</h1>
+    <p>This is a simple webpage with an image:</p>
+
+    <img src="mg101_b6_psychiana_photographs_001.jpg" alt="Description of the image">
+
+</body>
