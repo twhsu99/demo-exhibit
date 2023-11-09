@@ -1,5 +1,6 @@
 display_name,stub,dropdown_parent
 Home,/
+Housing,,
 Browse,/browse.html
 Subjects,/subjects.html
 Locations,/locations.html
@@ -7,5 +8,4 @@ Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
 About,/about.html
-Housing,,
 Construction of Little America,/little-america.html,Housing
