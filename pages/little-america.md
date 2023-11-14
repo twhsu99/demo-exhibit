@@ -2,7 +2,7 @@
 title: Construction of Little America
 layout: about
 permalink: /little-america.html
-credits: true
+
 ---
 
 # Home Away from Home 
