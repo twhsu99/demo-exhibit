@@ -26,8 +26,12 @@ Plans for dependents housing, Kōgei Nyūsu [Industrial Arts News], October 1946
 [![Description of the image](objects/mg101_b6_photographs_01.jpg)](https://twhsu99.github.io/demo-exhibit/item.html?id=psychiana027)
 
 <div class="card" style="width: 18rem;">
-  <img src="objects/mg101_b6_photographs_01.jpg" class="card-img-top" alt="piano">
+  <a href="https://twhsu99.github.io/demo-exhibit/item.html?id=psychiana027">
+  <img src="objects/mg101_b6_photographs_01.jpg" class="card-img-top" alt="piano" >
   <div class="card-body">
     <p class="card-text">Dependent Housing</p>
+
+  
   </div>
+  </a>
 </div>
