@@ -18,9 +18,16 @@ Within these self-contained communities, military families enjoyed a traditional
 Planning U.S. housing for the Japanese setting required constant negotiation. Japanese professionals learned about Western construction practices, but also applied their own methods to make the houses more suitable to the Japanese climate and resistant to natural disasters such as typhoons and earthquakes. Their efforts resulted in a cross-cultural innovation, a new housing model incorporating modern American style with Japanese design elements. According to Major Heeren S. Krusé, Chief of the Design Branch, Engineering Division, “The buildings designed are not American houses…The houses developed are actually something new.” *(Dependent Housing, Japan and Korea, 1948).*
 
 <img src="objects/mg101_b6_photographs_01.jpg" alt="piano" width="350"/>
+
 Plans for dependents housing, Kōgei Nyūsu [Industrial Arts News], October 1946 
 
 
 ## Select an image to view details
-## [![Description of the image](objects/mg101_b6_photographs_01.jpg)](https://twhsu99.github.io/demo-exhibit/item.html?id=psychiana027)
-{% include feature/card.html header="Dependents Housing" text="description" objectid="psychiana027"}
+[![Description of the image](objects/mg101_b6_photographs_01.jpg)](https://twhsu99.github.io/demo-exhibit/item.html?id=psychiana027)
+
+<div class="card" style="width: 18rem;">
+  <img src="objects/mg101_b6_photographs_01.jpg" class="card-img-top" alt="piano">
+  <div class="card-body">
+    <p class="card-text">Dependent Housing</p>
+  </div>
+</div>
