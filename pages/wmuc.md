@@ -1,6 +1,6 @@
 ---
 title: WMUC
-layout: timeline
+layout: about
 permalink: /wmuc.html
 
 ---
@@ -13,13 +13,13 @@ permalink: /wmuc.html
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="objects/mg101_b6_f7_miscellanious_negatives_010.jpg" class="d-block w-100" alt="...">
+      <img src="objects/mg101_b6_f7_miscellanious_negatives_010.jpg" class="d-block w-100" alt="papers" height=400px >
     </div>
     <div class="carousel-item">
-      <img src="objects/mg101_b6_f7_miscellanious_negatives_012.jpg" class="d-block w-100" alt="...">
+      <img src="objects/mg101_b6_f7_miscellanious_negatives_012.jpg" class="d-block w-100" alt="pin" height=400px>
     </div>
     <div class="carousel-item">
-      <img src="objects/mg101_b6_f7_miscellanious_negatives_014.jpg" class="d-block w-100" alt="...">
+      <img src="objects/mg101_b6_f7_miscellanious_negatives_014.jpg" class="d-block w-100" alt="photo" height=400px>
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
