@@ -6,8 +6,6 @@ permalink: /wmuc.html
 ---
 
 
-
-
 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -35,32 +33,40 @@ permalink: /wmuc.html
   </button>
 </div>
 
+
+# Saving College Radio: WMUC Past, Present and Future
+
+For over 75 years, the University of Maryland has been actively involved in radio. What began as an introductory course in the Speech Department blossomed into a thriving student-run station, first as WMUC AM 650, then as WMUC- FM in College Park and WMUC Digital.
+
+Generations of students have lent their talents to WMUC. Many have gone on to broadcast-related careers in music, sports, journalism, reporting, production and engineering, while others have simply enjoyed the creative opportunities the station offered as an extracurricular activity. Whatever the future held for each of them, every voice at WMUC has helped to shape the identity of the university.
+
+The University Libraries are proud to play a role in saving college radio at the University of Maryland. As we work to preserve the materials that tell the story of WMUC's past, we are committed to ensuring that the station continues to serve the students, the campus and the greater Washington, D.C. area community well into the future.
+
+
+
 ## WMUC Timeline 
 
 <div class="container">
     <ul class="timeline">
         <li>
-          <div class="timeline-badge primary"><a><i class="glyphicon glyphicon-record" rel="tooltip" title="11 hours ago via Twitter" id=""></i></a></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
               <img class="img-responsive" src="http://lorempixel.com/1600/500/sports/2" />
               
             </div>
             <div class="timeline-body">
-              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+              <img src="objects/mg101_b6_f7_miscellanious_negatives_010.jpg" class="d-block w-100" alt="papers" height=200px width=300px>
               
             </div>
-            
+      
             <div class="timeline-footer">
-                <a><i class="glyphicon glyphicon-thumbs-up"></i></a>
-                <a><i class="glyphicon glyphicon-share"></i></a>
-                <a class="pull-right">Continuar Lendo</a>
+                <h2> 1935 </h2>
+                <p>The University of Maryland begins its forays into radio through the University Radio League and the National Committee on Education by Radio.</p>
             </div>
           </div>
         </li>
         
         <li  class="timeline-inverted">
-          <div class="timeline-badge primary"><a><i class="glyphicon glyphicon-record invert" rel="tooltip" title="11 hours ago via Twitter" id=""></i></a></div>
           <div class="timeline-panel">
             <div class="timeline-heading">
               <img class="img-responsive" src="http://lorempixel.com/1600/500/sports/2" />
@@ -72,8 +78,36 @@ permalink: /wmuc.html
             </div>
             
             <div class="timeline-footer">
-                <a><i class="glyphicon glyphicon-thumbs-up"></i></a>
-                <a><i class="glyphicon glyphicon-share"></i></a>
+                <a class="pull-right">Continuar Lendo</a>
+            </div>
+          </div>
+        </li>
+        <li>
+            <div class="timeline-panel">
+            <div class="timeline-heading">
+              <img class="img-responsive" src="http://lorempixel.com/1600/500/sports/2" />
+              
+            </div>
+            <div class="timeline-body">
+              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+              
+            </div>
+            
+            <div class="timeline-footer">
+                <a class="pull-right">Continuar Lendo</a>
+            </div>
+          </div>
+        </li>
+        
+        <li  class="timeline-inverted">
+         
+          <div class="timeline-panel">
+            <div class="timeline-body">
+              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+              
+            </div>
+            
+            <div class="timeline-footer">
                 <a class="pull-right">Continuar Lendo</a>
             </div>
           </div>
@@ -91,50 +125,14 @@ permalink: /wmuc.html
             </div>
             
             <div class="timeline-footer">
-                <a><i class="glyphicon glyphicon-thumbs-up"></i></a>
-                <a><i class="glyphicon glyphicon-share"></i></a>
+                
                 <a class="pull-right">Continuar Lendo</a>
             </div>
           </div>
         </li>
         
         <li  class="timeline-inverted">
-          <div class="timeline-badge primary"><a><i class="glyphicon glyphicon-record invert" rel="tooltip" title="11 hours ago via Twitter" id=""></i></a></div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-              
-            </div>
-            
-            <div class="timeline-footer">
-                <a><i class="glyphicon glyphicon-thumbs-up"></i></a>
-                <a><i class="glyphicon glyphicon-share"></i></a>
-                <a class="pull-right">Continuar Lendo</a>
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-badge primary"><a><i class="glyphicon glyphicon-record" rel="tooltip" title="11 hours ago via Twitter" id=""></i></a></div>
-          <div class="timeline-panel">
-            <div class="timeline-heading">
-              <img class="img-responsive" src="http://lorempixel.com/1600/500/sports/2" />
-              
-            </div>
-            <div class="timeline-body">
-              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-              
-            </div>
-            
-            <div class="timeline-footer">
-                <a><i class="glyphicon glyphicon-thumbs-up"></i></a>
-                <a><i class="glyphicon glyphicon-share"></i></a>
-                <a class="pull-right">Continuar Lendo</a>
-            </div>
-          </div>
-        </li>
-        
-        <li  class="timeline-inverted">
-          <div class="timeline-badge primary"><a><i class="glyphicon glyphicon-record invert" rel="tooltip" title="11 hours ago via Twitter" id=""></i></a></div>
+          
           <div class="timeline-panel">
             <div class="timeline-heading">
               <img class="img-responsive" src="http://lorempixel.com/1600/500/sports/2" />
@@ -146,14 +144,13 @@ permalink: /wmuc.html
             </div>
             
             <div class="timeline-footer primary">
-                <a><i class="glyphicon glyphicon-thumbs-up"></i></a>
-                <a><i class="glyphicon glyphicon-share"></i></a>
+                
                 <a class="pull-right">Continuar Lendo</a>
             </div>
           </div>
         </li>
         <li>
-          <div class="timeline-badge primary"><a><i class="glyphicon glyphicon-record invert" rel="tooltip" title="11 hours ago via Twitter" id=""></i></a></div>
+          
           <div class="timeline-panel">
             <div class="timeline-body">
               <p><b>All the credits go to <a href="http://bootsnipp.com/rafamaciel">Rafamaciel</a></b></p>
@@ -161,8 +158,7 @@ permalink: /wmuc.html
             </div>
             
             <div class="timeline-footer primary">
-                <a><i class="glyphicon glyphicon-thumbs-up"></i></a>
-                <a><i class="glyphicon glyphicon-share"></i></a>
+                
                 <a class="pull-right">Continuar Lendo</a>
             </div>
           </div>
