@@ -51,7 +51,7 @@ The University Libraries are proud to play a role in saving college radio at the
         <li>
           <div class="timeline-panel">
             <div class="timeline-body">
-              <img src="objects/mg101_b7_f13_007.pdf" class="d-block w-100" alt="papers" height=200px width=300px>
+              <img src="objects/mg101_b6_f7_miscellanious_negatives_010.jpg" class="d-block w-100" alt="papers" height=200px width=300px>
               
             </div>
       
