@@ -7,13 +7,6 @@ permalink: /wmuc.html
 
 
 
-<head>
-  <link rel="stylesheet" id="timeline-css">
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-</head>
-
-
 
 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
@@ -44,12 +37,7 @@ permalink: /wmuc.html
 
 ## WMUC Timeline 
 
-
-
 <div class="container">
-    <div class="page-header text-center">
-        <h1 id="timeline">Timeline 2.1</h1>
-    </div>
     <ul class="timeline">
         <li>
           <div class="timeline-badge primary"><a><i class="glyphicon glyphicon-record" rel="tooltip" title="11 hours ago via Twitter" id=""></i></a></div>
