@@ -7,7 +7,8 @@ Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
 About,/about.html
-WMUC,/wmuc.html
-Music,/music.html,WMUC
+WMUC,,
+WMUC: Home,/wmuc.html,WMUC
+WMUC: Music,/music.html,WMUC
 Housing,,
 Construction of Little America,/little-america.html,Housing
