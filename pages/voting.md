@@ -23,17 +23,33 @@ By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs
 
 ## Voter Eligibility
 
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 30rem;">
   
       <div class="card-header">
-    <h5 class="card-text">A Relation of Maryland; Together, with a Map of the Countrey, the Conditions of Plantation, His Majesties Charter to the Lord Baltemore</h5>
+    <h4 class="card-text">A Relation of Maryland; Together, with a Map of the Countrey, the Conditions of Plantation, His Majesties Charter to the Lord Baltemore</h4>
         <p> London, 1635.
         <br> Rare Books collection</p>
         <a href="https://archive.org/details/mdu-md-086018">View full text in the Internet Archive</a>
   </div>
-  <img src="objects/mg101_b6_photographs_01.jpg" class="card-img-top" alt="piano">
+  <a href="objects/mg101_b6_photographs_01.jpg" data-toggle="lightbox" data-caption="Piano">
+	<img src="objects/mg101_b6_photographs_01.jpg" class="img-fluid">
+</a>
   <div class="card-body">
     <p class="card-text"> In section VII of the Charter of Maryland, Lord Baltimore is authority to enact laws "in agreement" with the freemen of the province, although mechanisms of obtaining consensus are not outlined and left entirely up to Lord Baltimore's discretion: <br>
 <i>
 "Know Ye therefore further, that We, forges, our Heirs and Successors, do grant unto the said now Baron, (in whose Fidelity, Prudence, Justice, and provident Circumspection of Mind, We repose the greatest Confidence) and to his Heirs, for the good and happy Government of the said Province, free, full, and absolute Power, by the Tenor of these Presents, to Ordain, Make, and Enact Laws, of what Kind soever, according to their sound Discretions whether relating to the Public State of the said Province, or the private Utility of Individuals, of and with the Advice, Assent, and Approbation of the Free-Men of the same Province, or the greater Part of them, or of their Delegates or Deputies, whom We will shall be called together for the framing of Laws, when, and as often as Need shall require, by the aforesaid now Baron of Baltimore, and his Heirs, and in the Form which shall seem best to him or them." </i> </p>
+</div>
+
+
+
+<div class="card" style="width: 30rem;">
+  
+      <div class="card-header">
+    <h4 class="card-text">The Constitution of the State of Maryland</h4>
+        <p> Baltimore, J. Murphy & co., 1851.
+        <br> <i> Maryland Rare Books collection </i></p>
+  </div>
+  {% include feature/pdf.html objectid="objects/mg101_b6_photographs_01.jpg" width="50" %}
+  <div class="card-body">
+    <p class="card-text"> In 1851 Maryland Constitution, article 5 grants the right to suffrage to: <i> "every free white male citizen..." </i> </p>
 </div>
