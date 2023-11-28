@@ -23,7 +23,7 @@ By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs
 
 ## Voter Eligibility
 
-<div class="card" style="width: 30rem; position: absolute;">
+<div class="card" style="width: 30rem;">
   
       <div class="card-header">
     <p class="card-text"> <strong> A Relation of Maryland; Together, with a Map of the Countrey, the Conditions of Plantation, His Majesties Charter to the Lord Baltemore </strong>
@@ -42,7 +42,7 @@ By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs
 </div>
 
 
-<div class="card" style="width: 30rem; position: absolute;">
+<div class="card" style="width: 30rem;">
   
       <div class="card-header">
     <p class="card-text"> <strong>The Constitution of the State of Maryland </strong> <br>
