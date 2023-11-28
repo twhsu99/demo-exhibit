@@ -23,7 +23,7 @@ By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs
 
 ## Voter Eligibility
 
-<div class="card" style="width: 30rem; float:left;">
+<div class="card" style="width: 30rem; float:left; padding: 30px;">
   
       <div class="card-header">
     <p class="card-text"> <strong> A Relation of Maryland; Together, with a Map of the Countrey, the Conditions of Plantation, His Majesties Charter to the Lord Baltemore </strong>
@@ -42,14 +42,14 @@ By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs
 </div>
 
 
-<div class="card" style="width: 30rem; float:left;">
+<div class="card" style="width: 30rem; float:left; padding: 30px;">
   
       <div class="card-header">
     <p class="card-text"> <strong>The Constitution of the State of Maryland </strong> <br>
          Baltimore, J. Murphy & co., 1851.
         <br> <i> Maryland Rare Books collection </i></p>
   </div>
-  {% include feature/pdf.html objectid="objects/mg101_b6_photographs_01.jpg" width="100" %}
+  {% include feature/pdf.html objectid="objects/mg101_b6_photographs_01.jpg" width="60" %}
   <div class="card-body">
     <p class="card-text"> In 1851 Maryland Constitution, article 5 grants the right to suffrage to: <i> "every free white male citizen..." </i> </p>
 </div>
