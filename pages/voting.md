@@ -13,3 +13,24 @@ As leaders began outlining a new democratic system of government in early Americ
 The absence of federal electoral laws set the stage for many national and local debates over the next 250 years.
 
 Explore items related to voter eligibility, methods of voting, and election fraud. 
+
+
+<img src="objects/mg101_b6_photographs_01.jpg" alt="piano" width="350"/>
+
+“The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.”
+By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division
+
+
+## Voter Eligibility
+
+<div class="card" style="width: 18rem;">
+  
+      <div class="card-body">
+    <h3 class="card-text">A Relation of Maryland; Together, with a Map of the Countrey, the Conditions of Plantation, His Majesties Charter to the Lord Baltemore</h3>
+        <p> London, 1635.
+        <br> Rare Books collection</p>
+        <a href="https://archive.org/details/mdu-md-086018">View full text in the Internet Archive</a>
+  </div>
+  <img src="objects/mg101_b6_photographs_01.jpg" class="card-img-top" alt="piano">
+  
+</div>
