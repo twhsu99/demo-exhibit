@@ -15,15 +15,15 @@ The absence of federal electoral laws set the stage for many national and local 
 Explore items related to voter eligibility, methods of voting, and election fraud. 
 
 
-<img src="objects/mg101_b6_photographs_01.jpg" alt="piano" width="350"/>
+<img style = "float: right;" src="objects/mg101_b6_photographs_01.jpg" alt="piano" width="350"/>
 
-“The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.”
-By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division
+<sub> “The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.” <br>
+By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division </sub>
 
 
 ## Voter Eligibility
 
-<div class="card" style="width: 30rem; float:left; padding: 30px;">
+<div class="card" style="width: 30rem; float:left; margin: 30px;">
   
       <div class="card-header">
     <p class="card-text"> <strong> A Relation of Maryland; Together, with a Map of the Countrey, the Conditions of Plantation, His Majesties Charter to the Lord Baltemore </strong>
@@ -42,14 +42,14 @@ By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs
 </div>
 
 
-<div class="card" style="width: 30rem; float:left; padding: 30px;">
+<div class="card" style="width: 30rem; float:left; margin: 30px;">
   
       <div class="card-header">
     <p class="card-text"> <strong>The Constitution of the State of Maryland </strong> <br>
          Baltimore, J. Murphy & co., 1851.
         <br> <i> Maryland Rare Books collection </i></p>
   </div>
-  {% include feature/pdf.html objectid="objects/mg101_b6_photographs_01.jpg" width="60" %}
+  {% include feature/pdf.html objectid="objects/mg101_b6_photographs_01.jpg" width="50" %}
   <div class="card-body">
     <p class="card-text"> In 1851 Maryland Constitution, article 5 grants the right to suffrage to: <i> "every free white male citizen..." </i> </p>
 </div>
