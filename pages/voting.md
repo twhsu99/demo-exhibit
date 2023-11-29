@@ -18,7 +18,7 @@ Explore items related to voter eligibility, methods of voting, and election frau
 
 </div>
 <div style = "width: 50%; float: left;">
-<img style = "vertical-align: middle;" src="objects/mg101_b6_photographs_01.jpg" alt="piano" width="500px"/>
+<img style = "vertical-align: middle; float: right;" src="objects/mg101_b6_photographs_01.jpg" alt="piano" width="500px"/>
 
 <sub> “The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.” <br>
 By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division </sub>
