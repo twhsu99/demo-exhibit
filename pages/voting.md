@@ -6,20 +6,24 @@ permalink: /voting.html
 ---
 # Early Voting
 
-Prior to the American Revolution, voting rights varied greatly across the colonies. Local laws defined the timing and location of elections, the mechanisms of voting, and who was eligible to vote. Suffrage was generally limited to those who were free, white, male, and property owners. Elections were often social gatherings, where voter fraud and corruption were commonplace, and votes were cast by standing up or voice voting; paper ballots were introduced later.
+<div style = "width: 50%;">
+<p>
+Prior to the American Revolution, voting rights varied greatly across the colonies. Local laws defined the timing and location of elections, the mechanisms of voting, and who was eligible to vote. Suffrage was generally limited to those who were free, white, male, and property owners. Elections were often social gatherings, where voter fraud and corruption were commonplace, and votes were cast by standing up or voice voting; paper ballots were introduced later. <br>
 
-As leaders began outlining a new democratic system of government in early America, voting regulations were left out of the founding national documents. As a result, each state's governing bodies created their own laws to dictate electoral qualifications and conditions, writing them into state constitutions. While voting qualifications varied from state to state, enfranchised groups continued to include wealthy, landowning men and exclude others on the basis of race, gender, socioeconomic status, and religion.
+As leaders began outlining a new democratic system of government in early America, voting regulations were left out of the founding national documents. As a result, each state's governing bodies created their own laws to dictate electoral qualifications and conditions, writing them into state constitutions. While voting qualifications varied from state to state, enfranchised groups continued to include wealthy, landowning men and exclude others on the basis of race, gender, socioeconomic status, and religion. <br>
 
-The absence of federal electoral laws set the stage for many national and local debates over the next 250 years.
+The absence of federal electoral laws set the stage for many national and local debates over the next 250 years. <br>
 
-Explore items related to voter eligibility, methods of voting, and election fraud. 
+Explore items related to voter eligibility, methods of voting, and election fraud. </p>
 
-
+</div>
+<div>
 <img style = "float: right;" src="objects/mg101_b6_photographs_01.jpg" alt="piano" width="350"/>
 
 <sub> “The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.” <br>
 By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division </sub>
 
+</div>
 
 ## Voter Eligibility
 
@@ -49,7 +53,7 @@ By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs
          Baltimore, J. Murphy & co., 1851.
         <br> <i> Maryland Rare Books collection </i></p>
   </div>
-  {% include feature/pdf.html objectid="objects/mg101_b6_photographs_01.jpg" width="50" %}
+  <iframe height="480" src="https://drive.google.com/file/d/1HzprMwb7B9atf5ZnNirArI3XqKkg93NO/preview" title="" width="100%"></iframe>
   <div class="card-body">
     <p class="card-text"> In 1851 Maryland Constitution, article 5 grants the right to suffrage to: <i> "every free white male citizen..." </i> </p>
 </div>
