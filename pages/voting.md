@@ -21,13 +21,16 @@ The absence of federal electoral laws set the stage for many national and local 
 
 Explore items related to voter eligibility, methods of voting, and election fraud. 
 </p>
-</div>
 
-<div style="float:left; position: relative;">
+<div style="float:right; position: relative;">
 <img width="400" src="objects/mg101_b6_photographs_01.jpg" />
 <p> <sub> “The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.” <br>
 By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division </sub> </p>
 </div>
+
+</div>
+
+
 
 
 ## Voter Eligibility
