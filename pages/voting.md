@@ -9,11 +9,7 @@ permalink: /voting.html
 
 # Early Voting
 
-<div style="float:left; position:relative">
-<img align="right" width="400" src="objects/mg101_b6_photographs_01.jpg" />
-<p style="float:right"> <sub> “The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.” <br>
-By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division </sub> </p>
-</div>
+
 
 <div style = "width: 50%">
 <p>
@@ -27,6 +23,11 @@ Explore items related to voter eligibility, methods of voting, and election frau
 </p>
 </div>
 
+<div style="float:left; position: relative;">
+<img width="400" src="objects/mg101_b6_photographs_01.jpg" />
+<p> <sub> “The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.” <br>
+By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division </sub> </p>
+</div>
 
 
 ## Voter Eligibility
