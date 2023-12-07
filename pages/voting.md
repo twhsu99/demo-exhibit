@@ -8,11 +8,11 @@ permalink: /voting.html
 
 
 # Early Voting
-<p>
+
 <img align="right" width="400" src="objects/mg101_b6_photographs_01.jpg" />
-<sub> “The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.” <br>
-By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division </sub> 
-</p>
+<p style="float:right"> <sub> “The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.” <br>
+By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division </sub> </p>
+
 
 <div style = "width: 60%">
 <p>
