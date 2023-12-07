@@ -9,12 +9,13 @@ permalink: /voting.html
 
 # Early Voting
 
+<div style="float:left; position:relative">
 <img align="right" width="400" src="objects/mg101_b6_photographs_01.jpg" />
 <p style="float:right"> <sub> “The Election, A Medley, Humbly Inscribed to Squire Lilliput, Professor of Scurrility.” <br>
 By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs Division </sub> </p>
+</div>
 
-
-<div style = "width: 60%">
+<div style = "width: 50%">
 <p>
 Prior to the American Revolution, voting rights varied greatly across the colonies. Local laws defined the timing and location of elections, the mechanisms of voting, and who was eligible to vote. Suffrage was generally limited to those who were free, white, male, and property owners. Elections were often social gatherings, where voter fraud and corruption were commonplace, and votes were cast by standing up or voice voting; paper ballots were introduced later. <br>
 
