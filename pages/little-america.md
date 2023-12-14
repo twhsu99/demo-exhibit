@@ -8,7 +8,7 @@ permalink: /little-america.html
 # Home Away from Home 
 
 ## Constructing Little America
-
+<div>
 <div style = "width: 50%;">
 One of the first challenges for those planning the occupation was providing U.S. military personnel and their families with accommodations that met American living standards. The solution was to construct housing complexes based on U.S. models. This was done with Japanese assistance.
 
@@ -20,11 +20,12 @@ Planning U.S. housing for the Japanese setting required constant negotiation. Ja
 
 </div>
 
-<div style = "width: 50%; float: left;">
-<img style = "float: right;" src="objects/mg101_b6_photographs_01.jpg" alt="piano" width="350"/>
+<div style = "float: left;">
+<img src="objects/mg101_b6_photographs_01.jpg" alt="piano"/>
 <sub>
 Plans for dependents housing, Kōgei Nyūsu [Industrial Arts News], October 1946 
 </sub>
+</div>
 </div>
 
 ## Select an image to view details
