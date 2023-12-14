@@ -81,11 +81,13 @@
         font-weight: bold;
         padding-top: 100px;
         border-top: 1px dotted black;
+        float: left;
     }
     
     h1, h2, h3, h4, h5, h6 {
         max-width: 650px;
         margin: 1.5rem auto 1rem;
+        float: left;
     }
     
     p, .about-narrowed-content, .footnotes, ol, ul, blockquote {
