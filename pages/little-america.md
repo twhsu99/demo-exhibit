@@ -23,6 +23,7 @@ Planning U.S. housing for the Japanese setting required constant negotiation. Ja
 
 <div class="flex-child">
 <img style="width: 30rem;" src="objects/mg101_b6_photographs_01.jpg" alt="piano"/>
+  <br>
 <sub>
 Plans for dependents housing, Kōgei Nyūsu [Industrial Arts News], October 1946 
 </sub>
