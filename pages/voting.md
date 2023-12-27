@@ -7,7 +7,7 @@ permalink: /voting.html
 
 
 
-# Early Voting
+<h1 class="voting"> Early Voting </h1>
 
 
 
@@ -35,7 +35,7 @@ By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs
 
 
 
-## Voter Eligibility
+<h2 class="voting"> Voter Eligibility </h2>
 
 <div class="card" style="width: 30rem; float:left; margin: 30px;">
   
