@@ -7,7 +7,7 @@ permalink: /little-america.html
 
 # Home Away from Home 
 
-## Constructing Little America
+<h2 class="crossing"> Constructing Little America </h2>
 <div class="flex-container">
 <div class="flex-child">
   <p>
@@ -30,7 +30,7 @@ Plans for dependents housing, Kōgei Nyūsu [Industrial Arts News], October 1946
 </div>
 </div>
 
-## Select an image to view details
+<h2 class="crossing"> Select an image to view details </h2>
 
 <div class="card" style="width: 18rem;">
   <a href="https://twhsu99.github.io/demo-exhibit/item.html?id=psychiana027">
