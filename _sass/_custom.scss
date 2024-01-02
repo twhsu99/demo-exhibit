@@ -9,6 +9,10 @@ p {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     margin: 0 0 10px;
 }
+br {
+   display: block;
+   margin: 10px 0;
+}
 
 /* Crossing the Divide theme */
 
@@ -26,11 +30,14 @@ h1.voting {
     font-size: 45px;
 }
 h2.voting {
-     font-family: 'Walter Turncoat', cursive;
+    font-family: 'Walter Turncoat', cursive;
     color: #B84444;
     border-bottom: 2px solid #70b7d4;
 }
-
+a.voting {
+    font-weight: 500;
+    color: #B35F1E;
+}
     
 /* Timeline theme */
 
