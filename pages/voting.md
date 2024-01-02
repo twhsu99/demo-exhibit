@@ -43,11 +43,12 @@ By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs
     <p class="card-text"> <strong> A Relation of Maryland; Together, with a Map of the Countrey, the Conditions of Plantation, His Majesties Charter to the Lord Baltemore </strong>
         <br> London, 1635.
         <br> <i> Rare Books collection </i> </p>
-        <a href="https://archive.org/details/mdu-md-086018">View full text in the Internet Archive</a>
+        <a class="voting" href="https://archive.org/details/mdu-md-086018">View full text in the Internet Archive</a>
   </div>
-  <a href="objects/mg101_b6_photographs_01.jpg" data-toggle="lightbox" data-caption="Piano">
+  <a href="objects/mg101_b6_photographs_01.jpg" data-toggle="lightbox" data-caption="A Relation of Maryland; Together, with a Map of the Countrey, the Conditions of Plantation, His Majesties Charter to the Lord Baltemore">
 	<img src="objects/mg101_b6_photographs_01.jpg" class="img-fluid">
 </a>
+
   <div class="card-body">
     <p class="card-text"> In section VII of the Charter of Maryland, Lord Baltimore is authority to enact laws "in agreement" with the freemen of the province, although mechanisms of obtaining consensus are not outlined and left entirely up to Lord Baltimore's discretion: <br>
 <i>
