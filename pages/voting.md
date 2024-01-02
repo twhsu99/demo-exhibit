@@ -5,7 +5,14 @@ permalink: /voting.html
 
 ---
 
-
+<body>
+<script>
+	$(document).on('click', '[data-toggle="lightbox"]', function(event) {
+                event.preventDefault();
+                $(this).ekkoLightbox();
+            });
+</script>
+	
 
 <h1 class="voting"> Early Voting </h1>
 
@@ -69,3 +76,4 @@ By Henry Dawkins. Philadelphia: 1764. Library of Congress Prints and Photographs
     <p class="card-text"> In 1851 Maryland Constitution, article 5 grants the right to suffrage to: <i> "every free white male citizen..." </i> </p>
 </div>
 </div>
+</body>
