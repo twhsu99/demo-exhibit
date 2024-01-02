@@ -3,6 +3,13 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
+/* all pages */
+p {
+    font-size: 14px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0 0 10px;
+}
+
 /* Crossing the Divide theme */
 
 h2.crossing {
