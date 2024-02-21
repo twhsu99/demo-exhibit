@@ -15,9 +15,12 @@ permalink: /rising-up-home.html
 In 2020, the world witnessed a trans-continental racial reckoning after the murders of Breonna Taylor, Ahmaud Arbery, and George Floyd. According to the Harvard Kennedy Carr Center, these protests saw 15 million to 26 million participants. Students from all over the country, including students from the University of Maryland, were part of the protests and demonstrations that demanded justice and equity within our nation's political, judicial, and academic systems. This exhibition is inspired by the uprising in 2020 and the long history of justice, equity, diversity, and inclusion at the University of Maryland. The exhibition centers the student activism and social movements of historically marginalized communities and their fight for civil rights including African American, Indigenous, LGBTQ+, Latinx, and Asian American students, advocates for women's rights, and students in the undocumented community. Drawing on records from over one hundred years, we piece together stories of students disrupting the status quo and demanding a more inclusive and equitable community.
 {: .rising }
 
+<div class="rising"> 
 ![Saba Tshibaka, co-founder of Black Terps Matter standing in the fountain on the National Mall](objects/saba-photo-national-mall-1.jpg "Saba Tshibaka")
-{: .rising }
+</div>
 
+<div id="block" class="rising">
+  
 ## Silenced Voices
 {: .rising }
 
@@ -32,3 +35,5 @@ Archivists as a community now understand that our collecting practices of the pa
 ### What does this mean for you?
 {: .rising }
 We encourage you to approach history critically. Think about whose perspectives are being reflected in the stories you are told. Think about whose stories are being left out. Think about why that might be the case. Notice trends in race, gender, class, and marginalization of both the authors and the subjects of the documents you read. Think about the impact that hearing stories from only one perspective have on us, our perceptions of others, our understanding of ourselves, and on the world around us, such as our public policy. By being better consumers of information, we can be better citizens.
+
+</div>
