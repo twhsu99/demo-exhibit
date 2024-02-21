@@ -4,7 +4,7 @@ layout: about
 permalink: /rising-up-home.html
 
 ---
-(setq markdown-css-paths '("_sass/rising-up-home.css"))
+(setq markdown-css-paths '("_sass/_rising-up-home.scss"))
 
 ![Home header banner](objects/a_homepage_headline.png)
 
