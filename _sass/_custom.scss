@@ -16,20 +16,38 @@ p {
 /* Rising Up theme */
 
 h1.rising {
-   font-family: 'Fjalla One', sans-serif;
+   font-family: 'Bebas Neue', sans-serif;
     color: #072c47;
-    font-size: 5em;
+    font-size: 2.5em;
     line-height: 100%;
     border-bottom: 2px solid #fff;
 }
 
 h2.rising {
-    font-family: 'Overlock', cursive;
+    font-family: 'Overlock', serif;
     color: #1c9dba;
-    font-size: 3.5em;
+    font-size: 1.5em;
     line-height: 100%;
     border-bottom: 2px solid #1c9dba;
 }
+
+h3.rising { 
+    font-family: 'Overlock', serif;
+    color: black;
+    font-size: 1em;
+    line-height: 100%;
+}
+
+img.rising {
+    float: left;
+}
+
+p.rising {
+    max-width: auto;
+
+} 
+
+
 
 
 /* Crossing the Divide theme */
