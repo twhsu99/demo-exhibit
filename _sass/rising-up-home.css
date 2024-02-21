@@ -1,1 +1,14 @@
+h1 {
+   font-family: 'Fjalla One', sans-serif;
+    color: #072c47;
+    font-size: 5em;
+    line-height: 100%;
+    border-bottom: 2px solid #fff;
+}
+
+h2 {
+    font-family: 'IM Fell English', serif;
+    color: #2b3c50;
+    font-size: 30px;
+}
 
