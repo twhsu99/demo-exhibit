@@ -15,9 +15,13 @@ p {
 
 /* Rising Up theme */
 
-.rising {
+.rising-box {
     display: flex;
     flex-direction: row;
+}
+
+.rising-child {
+     flex: 1 1 auto;
 }
 
 h1.rising {
