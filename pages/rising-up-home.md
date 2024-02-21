@@ -7,7 +7,7 @@ permalink: /rising-up-home.html
 
 ![Home header banner](objects/a_homepage_headline.png)
 
-# Early Voting 
+# Rising Up 
 {: .voting }
 ## 100 Years of Student Activism for Justice and Civil Rights at the University of Maryland 
 {: .voting }
@@ -17,6 +17,7 @@ In 2020, the world witnessed a trans-continental racial reckoning after the murd
 ![Saba Tshibaka, co-founder of Black Terps Matter standing in the fountain on the National Mall](objects/saba-photo-national-mall-1.jpg "Saba Tshibaka")
 
 ## Silenced Voices
+
 ### Whose stories are missing? 
 We were not able to fully represent the experience of all people living in the United States during these seminal moments in voting rights history. We were reliant upon the items that had been collected and kept by archivists of the past, revealing holes and forgotten voices within our Archives. We were also reliant on their descriptions of our collections in order to find relevant material within our Archives. 
 
