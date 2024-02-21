@@ -4,6 +4,8 @@ layout: about
 permalink: /rising-up-home.html
 
 ---
+<link href="rising-up-style.css" rel="stylesheet"></link>
+
 ![Home header banner](objects/a_homepage_headline.png)
 
 # Early Voting
