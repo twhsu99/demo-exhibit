@@ -2,13 +2,9 @@
 title: Rising Up Home
 layout: about
 permalink: /rising-up-home.html
-css: /_sass/_rising-up-home.scss
+css: _rising-up-home.scss
 
 ---
-<head>
-<link href="_sass/_rising-up-home.scss" rel="stylesheet"></link>  
-</head>
-
 
 ![Home header banner](objects/a_homepage_headline.png)
 
