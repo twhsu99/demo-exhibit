@@ -15,6 +15,11 @@ p {
 
 /* Rising Up theme */
 
+.rising {
+    display: flex;
+    flex-direction: row;
+}
+
 h1.rising {
    font-family: 'Bebas Neue', sans-serif;
     color: #072c47;
@@ -42,10 +47,10 @@ img.rising {
     float: left;
 }
 
-p.rising {
-    max-width: auto;
-
-} 
+#block.rising {
+    background: #ffe6b9;
+    padding: 18px;
+}
 
 
 
