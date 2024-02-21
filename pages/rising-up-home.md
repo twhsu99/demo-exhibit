@@ -16,6 +16,12 @@ In 2020, the world witnessed a trans-continental racial reckoning after the murd
 {: .rising }
 
 <div class="rising-box"> 
+  <div class="rising-child"> 
+  
+  ![Saba Tshibaka, co-founder of Black Terps Matter standing in the fountain on the National Mall](objects/saba-photo-national-mall-1.jpg "Saba Tshibaka") 
+
+  </div>
+
 
 
   <div id="block" class="rising-child">
