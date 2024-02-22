@@ -18,10 +18,17 @@ p {
 .rising-box {
     display: flex;
     flex-direction: row;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .rising-child {
-     flex: 1 1 auto;
+    flex: 1 1 auto; 
+}
+
+#block.rising-child {
+    background: #ffe6b9;
+    padding: 18px;
 }
 
 h1.rising {
@@ -51,10 +58,6 @@ img.rising {
     float: left;
 }
 
-#block.rising {
-    background: #ffe6b9;
-    padding: 18px;
-}
 
 
 
