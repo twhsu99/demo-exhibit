@@ -23,19 +23,18 @@ p {
     padding-bottom: 40px;
 }
 
-
 .rising-child {
     flex: 1 1 auto; 
 }
 
-
 #block.rising-child {
     background: #ffe6b9;
     padding: 18px; 
+    margin-left: 15px; 
 }
 
 @media (max-width: 710px) {
-  .rising-child {
+  .rising-box {
     flex-direction: column;
   }
 }
