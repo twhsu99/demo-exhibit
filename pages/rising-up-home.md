@@ -6,6 +6,7 @@ permalink: /rising-up-home.html
 ---
  
 ![Home header banner](objects/a_homepage_headline.png)
+{#header .rising}
 
 # Rising Up 
 {: .rising }
