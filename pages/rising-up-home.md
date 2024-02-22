@@ -24,8 +24,9 @@ In 2020, the world witnessed a trans-continental racial reckoning after the murd
   </div>
 
   <div id="block" class="rising-child" markdown="1">
-      
-  ## Silenced Voices
+  {{ include.content.content | markdownify }}   
+   
+   ## Silenced Voices
   {: .rising }
 
   ### Whose stories are missing? 
