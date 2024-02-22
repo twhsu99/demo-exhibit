@@ -4,7 +4,7 @@ layout: about
 permalink: /rising-up-home.html
 
 ---
-
+ 
 ![Home header banner](objects/a_homepage_headline.png)
 
 # Rising Up 
@@ -15,15 +15,16 @@ permalink: /rising-up-home.html
 In 2020, the world witnessed a trans-continental racial reckoning after the murders of Breonna Taylor, Ahmaud Arbery, and George Floyd. According to the Harvard Kennedy Carr Center, these protests saw 15 million to 26 million participants. Students from all over the country, including students from the University of Maryland, were part of the protests and demonstrations that demanded justice and equity within our nation's political, judicial, and academic systems. This exhibition is inspired by the uprising in 2020 and the long history of justice, equity, diversity, and inclusion at the University of Maryland. The exhibition centers the student activism and social movements of historically marginalized communities and their fight for civil rights including African American, Indigenous, LGBTQ+, Latinx, and Asian American students, advocates for women's rights, and students in the undocumented community. Drawing on records from over one hundred years, we piece together stories of students disrupting the status quo and demanding a more inclusive and equitable community.
 {: .rising }
 
-<div class="rising-box"> 
+<div class="rising-box" markdown="1"> 
   <div class="rising-child" markdown="1"> 
   
   ![Saba Tshibaka, co-founder of Black Terps Matter standing in the fountain on the National Mall](objects/saba-photo-national-mall-1.jpg "Saba Tshibaka") 
-
+  Saba Tshibaka, co-founder of Black Terps Matter standing in the fountain on the National Mall. 2020. _Black Terps Matter collection._
+  
   </div>
 
-  <div id="block" class="rising-child" markdown="block">
-  
+  <div id="block" class="rising-child" markdown="1">
+      
   ## Silenced Voices
   {: .rising }
 
