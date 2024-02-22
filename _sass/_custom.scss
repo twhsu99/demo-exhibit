@@ -18,6 +18,7 @@ p {
 .rising-box {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     padding-top: 40px;
     padding-bottom: 40px;
 }
@@ -28,7 +29,8 @@ p {
 
 #block.rising-child {
     background: #ffe6b9;
-    padding: 18px;
+    padding: 18px; 
+    margin: 15px;
 }
 
 h1.rising {
