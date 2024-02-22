@@ -18,14 +18,21 @@ p {
 .rising-box {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     padding-top: 40px;
     padding-bottom: 40px;
 }
 
+
 .rising-child {
     flex: 1 1 auto; 
 }
+
+@media screen and (max-width: 600px) {
+  .rising-child {
+    width: 100%;
+  }
+}
+
 
 #block.rising-child {
     background: #ffe6b9;
@@ -59,6 +66,7 @@ h3.rising {
 img.rising {
     float: left;
 }
+
 
 
 
