@@ -13,6 +13,7 @@ p {
    margin: 10px;
 }
 
+
 /* Rising Up theme */
 
 .rising-box {
@@ -27,18 +28,18 @@ p {
     flex: 1 1 auto; 
 }
 
-@media (max-width: 710px) {
-  .rising-box {
-    flex-direction: column;
-  }
-}
-
 
 #block.rising-child {
     background: #ffe6b9;
     padding: 18px; 
-    margin: 15px;
 }
+
+@media (max-width: 710px) {
+  .rising-child {
+    flex-direction: column;
+  }
+}
+
 
 h1.rising {
    font-family: 'Bebas Neue', sans-serif;
