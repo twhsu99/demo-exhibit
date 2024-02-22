@@ -22,7 +22,7 @@ In 2020, the world witnessed a trans-continental racial reckoning after the murd
 
   </div>
 
-  <div id="block" class="rising-child" markdown="1">
+  <div id="block" class="rising-child" markdown="block">
   
   ## Silenced Voices
   {: .rising }
