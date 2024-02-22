@@ -16,15 +16,13 @@ In 2020, the world witnessed a trans-continental racial reckoning after the murd
 {: .rising }
 
 <div class="rising-box"> 
-  <div class="rising-child"> 
+  <div class="rising-child" markdown="1"> 
   
   ![Saba Tshibaka, co-founder of Black Terps Matter standing in the fountain on the National Mall](objects/saba-photo-national-mall-1.jpg "Saba Tshibaka") 
 
   </div>
 
-
-
-  <div id="block" class="rising-child">
+  <div id="block" class="rising-child" markdown="1">
   
   ## Silenced Voices
   {: .rising }
