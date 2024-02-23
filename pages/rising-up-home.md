@@ -8,6 +8,7 @@ permalink: /rising-up-home.html
  <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap" rel="stylesheet">
 </head>
 
  
@@ -35,13 +36,16 @@ Saba Tshibaka, co-founder of Black Terps Matter standing in the fountain on the 
 ## Silenced Voices
   {: .rising }
 
+
 ### Whose stories are missing? 
   {: .rising }
 We were not able to fully represent the experience of all people living in the United States during these seminal moments in voting rights history. We were reliant upon the items that had been collected and kept by archivists of the past, revealing holes and forgotten voices within our Archives. We were also reliant on their descriptions of our collections in order to find relevant material within our Archives. 
 
+
 ### Why does this matter? 
   {: .rising }
 Archivists as a community now understand that our collecting practices of the past were biased, and that we all carry our implicit biases into the workplace, which can shape the collections we save and share with the world. Our profession is changing the approach to documenting history, but change is slow. We are making greater strides to fill gaps within our records and to bring voice to those silenced by past practices. 
+
 
 ### What does this mean for you?
   {: .rising }
